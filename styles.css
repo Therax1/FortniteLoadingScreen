@@ -1,0 +1,12 @@
+
+/*Font declaration */
+
+@font-face {
+    font-family: "fortnite";
+    src: url("./assets/fortnite/Burbank\ Big\ Condensed\ Black.otf");
+}
+
+@font-face {
+    font-family: "fortnite";
+    src: url("./assets/fortnite/fortnite.otf");
+}
